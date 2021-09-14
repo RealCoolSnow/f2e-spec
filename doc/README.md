@@ -1,4 +1,4 @@
-# 前端开发规范整理
+# 前端开发规范
 
 ## 1. 开发工具
  [VSCode](https://code.visualstudio.com/)
