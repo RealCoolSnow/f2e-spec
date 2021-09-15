@@ -3,8 +3,13 @@
 ## 1. 开发工具
  [VSCode](https://code.visualstudio.com/)
 
-## 2. 阿里前端开发规范
-  [文档下载](阿里前端开发规范.pdf)
+## 2. 代码规范
+  [阿里前端开发规范-下载](阿里前端开发规范.pdf)
+
+  [Vue2 风格指南](https://cn.vuejs.org/v2/style-guide)
+
+  [Vue3 风格指南](https://v3.cn.vuejs.org/style-guide)
+
 
 ## 3. Git代码提交规范
 ### 提交comment格式
