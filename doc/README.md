@@ -11,7 +11,7 @@
   [Vue3 风格指南](https://v3.cn.vuejs.org/style-guide)
 
 
-## 3. Git代码提交规范
+## 3. Git提交规范
 ### 提交comment格式
     提交类型: 内容
 
